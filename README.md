@@ -4,7 +4,7 @@
 
 This package was created to make it easy to add realistic push buttons with LED status indicators to your Flutter projects.
 
-<img src="https://github.com/reposis/realistic_button/blob/main/realistic_button.gif" width="200" alt="Realistic Button Example Screenshot"/>
+<img src="https://github.com/reposis/realistic_button/raw/main/realistic_button.gif" width="200" alt="Realistic Button Example Screenshot"/>
 
 ## Installation
 
